@@ -28,9 +28,7 @@ Here are some ideas to get you started:
 
 ### Contact
 
-<a href="https://zzozzomin08.tistory.com/"><img src="https://img.shields.io/badge/Blog-CC0000?style=flat-square&logo=Jekyll&logoColor=white&link=https://zzozzomin08.tistory.com/"/></a>
-<a href="https://www.linkedin.com/in/seungmin-han-110b69160/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/seungmin-han-110b69160/"/></a>
-<a href="mailto:mininyong08@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mininyong08@gmail.com"/></a>
+<a href="mailto:mininyong08@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dlemdqud123456@gmail.com"/></a>
 
 ### Languages and Tools
 
