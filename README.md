@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzozzo&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
-- 📱 I major in Convergence security engineering    
+- 📱 I major in Spatial Information Engineering
 - 💡 I am currently learning AI, Data Science  
 - ✨ The reason why I study AI and Data Science is I can find out unknown features or insights throught analyzing data. Futhermore, I believe using these features and insights I can make better world by inventing useful tech.
 
